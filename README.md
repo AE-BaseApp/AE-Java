@@ -7,7 +7,7 @@ AE-Java BaseApp
 [AE-BaseApp](http://ae-baseapp.appspot.com) is a multi-platform app-engine base-app created by 
 Mark Finch to assist developers looking to build their first applications 
 leveraging Google's Cloud Infrastructure. AE-Java is adapted from AE-Python
-base app with significant portion of version 1 of the code adapted from App
+base app with significant portion of version 1 code adapted from App
 Engine Guestbook Demo App.
 
 The AE-Java version of Project-GAE uses the Java/JSP Language to provide a
