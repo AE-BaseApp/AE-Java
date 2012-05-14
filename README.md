@@ -10,7 +10,7 @@ leveraging Google's Cloud Infrastructure. AE-Java is adapted from AE-Python
 base app with significant portion of version 1 code adapted from App
 Engine Guestbook Demo App.
 
-The AE-Java version of Project-GAE uses the Java/JSP Language to provide a
+The AE-Java version of AE-BaseApp uses the Java/JSP Language to provide a
 simple application base to launch new Google App Engine Applications from.  
 
 Features of version 1 include Ad-Sense integration, examples of how to use basic
