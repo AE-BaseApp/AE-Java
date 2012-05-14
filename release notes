@@ -1,0 +1,15 @@
+THIS SOFTWARE IS NOT PRODUCTION READY!
+--------------------------------------
+This software is currently in an early development stage.  It is not ready for
+use in a production environment without modifications.  Read the file ISSUES
+for a list of known issues.
+
+Version 1
+---------
+Version 1 of AE-Java is mainly a hello world version.  It sets up the 
+framework that we use to build a Scalable Base Application that contains User 
+Authentication, User Registration, Administrative Application, Ad Provider
+Framework, Geo Location Features, Social Site Integration (eg Twitter, Facebook)
+
+Version 1 could be looked at as a proof of concept.  We put together the basic
+pieces and they worked.

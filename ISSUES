@@ -1,0 +1,22 @@
+THE SOFTWARE IS NOT PRODUCTION READY!
+
+The following list below should not be considered Authoritative.  It is simply
+a list of issues that the developers have noticed.  The software is Open Source
+so you are free to modify the code.  Those modifications could result in issues
+that compromise the software.  You should have a Qualified Engineer go over this
+software as well as your changes before deployment.
+
+As of Version 1-Initial the following is a list of known issues:
+
+  *  The entire code base is an issue.  DO NOT USE IN PRODUCTION IN ANY FORM!
+
+     Resolution: This code is not meant for anything outside of testing how
+     App Engine handles various frameworks.  This is *NOT* the BaseApp!  Just
+     version 1 which should be looked at as more a "Hello World" than a
+     serious application.  For example it uses `get` instead of `post` for
+     storing data to the server, there isn't any validation, verification, or
+     even error handling.  Result is wait for the real BaseApp or help by
+     contributing to developing the real BaseApp!
+
+This is only a list of known issues.  There could be other issues that have not
+been discovered.
